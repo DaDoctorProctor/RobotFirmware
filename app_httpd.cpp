@@ -6,9 +6,8 @@ int speed = 255;
 #include "esp_camera.h"
 #include "img_converters.h"
 #include "Arduino.h"
-//Extra
+//Extra//
 #include "camera_index.h"
-
 extern int val_final;
 extern String RGBCommand;
 
