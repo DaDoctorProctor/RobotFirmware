@@ -152,7 +152,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  //Cambiar el tiempo de envio de datos al gusto. 
+  //Cambiar el tiempo de envio de datos al gusto. //
   Serial.println(val_final);
   Serial.println(RGBCommand);
   delay(500);
